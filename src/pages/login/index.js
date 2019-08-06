@@ -4,7 +4,7 @@ export default class Page extends PureComponent {
     render() {
         return (
             <div>
-                this is Login Page~
+                <div className="app-name">Happy Chat</div>
             </div>
         )
     }
